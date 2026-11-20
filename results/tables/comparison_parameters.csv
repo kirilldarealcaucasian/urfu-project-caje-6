@@ -1,0 +1,11 @@
+regressor,fold,params,inner_MAE
+Бустинг · сетка,1,"{""regressor__learning_rate"": 0.05, ""regressor__max_leaf_nodes"": 15, ""regressor__min_samples_leaf"": 60}",9.073764728035941
+Бустинг · сетка,2,"{""regressor__learning_rate"": 0.1, ""regressor__max_leaf_nodes"": 15, ""regressor__min_samples_leaf"": 60}",6.374852722146201
+Бустинг · сетка,3,"{""regressor__learning_rate"": 0.1, ""regressor__max_leaf_nodes"": 15, ""regressor__min_samples_leaf"": 20}",5.664643140857211
+Бустинг · сетка,4,"{""regressor__learning_rate"": 0.1, ""regressor__max_leaf_nodes"": 15, ""regressor__min_samples_leaf"": 20}",5.12974234374473
+Бустинг · сетка,5,"{""regressor__learning_rate"": 0.1, ""regressor__max_leaf_nodes"": 15, ""regressor__min_samples_leaf"": 20}",4.918923846664125
+Бустинг · случайный поиск,1,"{""regressor__min_samples_leaf"": 15, ""regressor__max_leaf_nodes"": 8, ""regressor__learning_rate"": 0.07}",9.015973927483289
+Бустинг · случайный поиск,2,"{""regressor__min_samples_leaf"": 15, ""regressor__max_leaf_nodes"": 15, ""regressor__learning_rate"": 0.1}",6.528527170472817
+Бустинг · случайный поиск,3,"{""regressor__min_samples_leaf"": 15, ""regressor__max_leaf_nodes"": 15, ""regressor__learning_rate"": 0.1}",5.704743299150248
+Бустинг · случайный поиск,4,"{""regressor__min_samples_leaf"": 15, ""regressor__max_leaf_nodes"": 15, ""regressor__learning_rate"": 0.1}",5.126866225494204
+Бустинг · случайный поиск,5,"{""regressor__min_samples_leaf"": 15, ""regressor__max_leaf_nodes"": 15, ""regressor__learning_rate"": 0.1}",4.942469887977058

@@ -1,0 +1,16 @@
+regressor,fold,coefficient_count,nonzero_count,maximum_absolute_coefficient
+Ridge · без скейлера,1,38,38,12.639532649609167
+Ridge · без скейлера,2,38,38,11.88822987233891
+Ridge · без скейлера,3,38,38,11.71061787273156
+Ridge · без скейлера,4,38,38,12.252947284957843
+Ridge · без скейлера,5,38,38,12.680549294941036
+Ridge · StandardScaler,1,38,38,30.880505297302793
+Ridge · StandardScaler,2,38,38,28.625076079942648
+Ridge · StandardScaler,3,38,38,27.213576148597646
+Ridge · StandardScaler,4,38,38,26.687177422910104
+Ridge · StandardScaler,5,38,38,26.482720041081542
+Ridge · RobustScaler,1,38,38,50.05187128024031
+Ridge · RobustScaler,2,38,38,43.23923737993358
+Ridge · RobustScaler,3,38,38,39.81261284797318
+Ridge · RobustScaler,4,38,38,38.57203859709948
+Ridge · RobustScaler,5,38,38,37.958622755963006

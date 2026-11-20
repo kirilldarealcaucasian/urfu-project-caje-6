@@ -1,0 +1,16 @@
+*
+!pyproject.toml
+!uv.lock
+!__main__.py
+!README.md
+!src/
+!src/*.py
+!eda/
+!eda/*.ipynb
+!validation/
+!validation/*.ipynb
+!modeling/
+!modeling/*.ipynb
+!data/
+!data/raw/
+!data/raw/*.csv
